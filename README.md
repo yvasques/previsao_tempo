@@ -2,6 +2,8 @@
 
 Este é um projeto simples de consulta de previsão do tempo, onde o usuário pode digitar o nome de uma cidade para obter informações sobre temperatura e velocidade do vento.
 
+<img src="media/layout.png" alt="Descrição da imagem" width="500">
+
 ## Tecnologias Utilizadas
 - HTML5
 - CSS3
